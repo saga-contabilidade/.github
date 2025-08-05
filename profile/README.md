@@ -5,7 +5,7 @@
 
 
 <p></p>
-<p align="center"><h1>👋 Bem-vindo(a) à Saga Contabilidade! </h1></p> 
+<h1 align="center">👋 Bem-vindo(a) à Saga Contabilidade!</h1> 
 
 <p align="center">
   <em>Nosso compromisso é ser conveniente.</em>
