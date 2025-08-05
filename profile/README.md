@@ -2,6 +2,9 @@
   <img src="https://github.com/saga-contabilidade/.github/blob/14368f724c92a70d57e8df52921f54f340a52cc3/banner_org" alt="logo" width="1080"/>
 </p>
 
+
+
+<p></p>
 <p align="center"> # 👋 Bem-vindo(a) à Saga Contabilidade! </p> 
 
 <p align="center">
